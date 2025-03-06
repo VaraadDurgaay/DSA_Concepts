@@ -1,0 +1,3 @@
+/*
+    the second type consist of the duplicates type
+*/
